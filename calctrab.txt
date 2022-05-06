@@ -1,0 +1,104 @@
+Para facilitar a explicação dos cálculos trabalhistas, utilizaremos em todos os tópicos o exemplo de um trabalhador contratado com salário de R$ 1.200,00 com jornada de 44 horas semanais, totalizando 220 horas mensais. 
+Além disso, para fins rescisórios, o contrato de trabalho teve início em 01/03/2014 e foi encerrado em 17/08/2017.
+Salário por dia: 1.200 ÷ 30 = 40;
+Saldo de salário: 40 x 17 = 680.
+**Ressalte-se que quando o contrato for mensal, a base de cálculo para a divisão será também de 30 dias e, tendo em vista o Descanso Semanal Remunerado (DSR), deverão ser incluídos os fins de semana.**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+O aviso prévio é o período entre a data em que é comunicada a dispensa até o dia do efetivo desligamento. 
+Essa medida deve ser feita com, no mínimo, 30 dias antecedência e com um adicional de 3 dias para cada ano de trabalho do empregado, nos casos de dispensa por iniciativa do empregador
+Assim, um mês de aviso é equivalente a um mês de salário — R$ 1.200. Porém, considerando que no exemplo dado a dispensa foi por iniciativa do empregador, o aviso prévio será de 39 dias. Como já sabemos que o salário por dia é de R$ 40, basta multiplicá-lo pelos dias de aviso: 39 x 40 = 1.560.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A cada 12 meses de trabalho o empregado tem direito a receber 30 dias de férias remuneradas 
+1/3 constitucional: 1.200 ÷ 3 = 400;
+Total das férias: 1.200 + 400 = 1.600.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sempre que a dispensa acontecer antes de o empregado completar 12 meses de trabalho, ele terá direito a receber as férias proporcionais (artigo 146 da CLT). Para fazer essa conta é preciso dividir o valor do salário por 12 (referentes aos meses do ano) e depois multiplicar pela quantidade de meses trabalhados.
+Ainda, é importante saber que o aviso prévio, mesmo que indenizado, integrará esse cálculo. Isso acontece pois o direito ao proporcional de férias é adquirido sempre que houver mais de 15 dias de trabalho no período em que está sendo computado o referido mês.
+No exemplo dado, o empregado trabalhou até o dia 17/08, com mais 39 dias integrados ao período, ou seja, até o dia 25/09. Dessa forma, considerando que o trabalho teve início em março, ele terá direito a receber férias proporcionais de 7 meses (de março até setembro).
+O cálculo será o seguinte:
+Valor mensal: 1.200 ÷ 12 = 100;
+Férias proporcionais: 100 x 7 = 700;
+1/3 constitucional: 700 ÷ 3 = 233,33;
+Total devido: 700 + 233,34 = 933,33.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+o 13º salário é devido para todos os trabalhadores no mês de dezembro de cada ano, e terá o valor de 1/12 da remuneração de dezembro por mês de serviço do ano correspondente, sendo considerado mês trabalhado todo aquele em que houve mais de 15 dias de labor.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Nesse caso, o cálculo é feito multiplicando a remuneração por 0,08 (8%): 1.200 x 0,08 = 96.
+Assim, o recolhimento mensal será de R$ 96. Contudo, é importante estar atento às outras verbas eventualmente pagas que refletirão também no FGTS, como as horas extras e o adicional noturno, além de incidir sobre as férias vencidas e o 13º salário, as férias proporcionais não somam base para o pagamento do FGTS.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dispensa sem justa causa: 3500 x 0,4 = 1.400;
+Dispensa em comum acordo: 3.500 x 0,2 = 700.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Para calcular as horas extras, primeiro é preciso saber o valor da hora de trabalho. Para isso, divide-se o salário do empregado pela quantidade de horas de trabalho mensais. Depois, deve-se multiplicar o valor da hora pelo percentual devido, que normalmente é 50% para dias normais e 100% para domingos e feriados, mas convenções coletivas podem determinar outros percentuais de adicional.
+Somando o valor da hora com o adicional, saberemos o valor de uma hora extra. Feito isso, basta multiplicar esse valor pelo total de horas extraordinárias realizadas pelo empregado durante o mês. De acordo com o exemplo, supondo que tenha feito 30 horas extras no mês, o cálculo é o seguinte:
+Valor da hora: 1.200 ÷ 220 = 5,45;
+Valor do adicional: 5,45 x 0,5 = 2,73;
+Valor da hora extra: 2,73 + 5,45 = 8,18;
+O valor total devido: 30 x 8,18 = 245,40
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+O adicional noturno é devido sempre que o empregado trabalhar em jornada noturna. Para o trabalhador urbano, ela engloba o horário entre as 22 horas até as 5 horas do dia seguinte. A remuneração do período deve ser feita com adicional de, pelo menos, 20% no valor da hora normal.
+Por exemplo, se o trabalhador teve 30 horas noturnas, o cálculo é assim:
+Valor da hora: 1.200 ÷ 220 = 5,45;
+O valor do adicional: 5,45 x 0,2 = 1,09;
+Valor da hora noturna: 5,45 + 1,09 = 6,54;
+O valor total devido: 30 x 6,54 = 196,20.
+Outro ponto importante é que a hora deve ser reduzida para 52 minutos e 30 segundos. Ou seja, esse período, na prática, deverá contar como se o empregado tivesse trabalhado por 60 minutos. Portanto, o cálculo da jornada trabalhada deve considerar essa redução para não haver erros.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Para exemplificar, vamos imaginar um profissional que ganha R$ 3000,00 mensais. Após o cálculo do saldo salarial, aviso prévio e do décimo terceiro proporcional, os valores ficaram assim, respectivamente: R$ 2000,00, R$ 3000,00 e R$ 1500,00.
+Todas essas quantias serão multiplicadas pela alíquota de contribuição vigente. Para o ano de 2021, nessa faixa salarial, o percentual é de 9%. Então, a matemática fica assim:
+Saldo de salário – R$ 2000,00 x 9% = R$ 163,50;
+Décimo terceiro proporcional – R$ 1500,00 x 9% = R$ 118,50.
+Somando todos esses resultados, chegamos ao valor de R$ 282,00 (desconto do INSS).
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+O imposto de renda deve ser recolhido e sua base deve somar todos os valores recebidos dentro de um mesmo mês.
+No exemplo de um colaborador que receba R$ 3.000,00, e tem de desconto de INSS o valor de R$ 277,40, a base do Imposto de Renda será R$ 2.722,60, sendo sujeito a uma alíquota de Imposto de Renda de R$ 7,5%:
+base do IR: R$ 2.722,60 * 7,5% = 204,19
+com a dedução prevista pela legislação, o imposto total ficará em: R$ 61,39.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+OBS:
+Quais são os tipos de rescisão?
+Para aprender como fazer cálculo trabalhista corretamente é preciso compreender quais são as verbas incluídas em cada situação. A seguir, explicamos como funciona o pagamento em cada tipo de rescisão.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sem justa causa
+Ocorre quando a empresa deseja encerrar o contrato. Nesse caso, o empregado tem direito ao aviso prévio proporcional de 30 dias, com um adicional de 3 dias por ano de trabalho, até o limite de 90 dias (30 dias base + 60 dias de acréscimo). Ele também receberá:
+Férias vencidas, acrescidas de 1/3;
+Férias proporcionais, acrescidas de 1/3;
+13º proporcional;
+Saldo de salário;
+Multa do FGTS.
+Além de efetuar o pagamento correto, o empregador deve fornecer a documentação para que ele possa requerer o seguro-desemprego.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Com justa causa 
+Quando a demissão acontece porque o empregado cometeu uma falta grave listada pelo artigo 482 da CLT. Nesse caso, ele perde diversos direitos e o cálculo trabalhista incluirá apenas o saldo de salário e as férias vencidas, se houver.
+Entre os fatores que dão motivos para o desligamento por justa causa, podemos citar:
+Ato desonesto ou de má fé;
+Mau comportamento no trabalho;
+Desídia;
+Abandono de emprego e faltas;
+Ofensa verbal e física;
+Ato contra as políticas internas da empresa, além dos outros motivos citados no Art. 482 da CLT..
+Pedido de demissão
+Se o trabalhador decidir encerrar o contrato de trabalho, ele deve notificar a empresa e deverá cumprir o aviso prévio de 30 dias. 
+Entretanto, será responsabilidade do empregador pagar:
+Férias vencidas, acrescidas de 1/3;
+Férias proporcionais, acrescidas de 1/3;
+13º proporcional;
+Saldo de salário.
+Caso o empregado não cumpra o aviso prévio, a empresa pode descontar os dias do aviso não trabalhados.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Demissão por comum acordo
+Essa modalidade foi criada pela reforma trabalhista e permite que patrão e empregado entrem em acordo sobre a rescisão. Importante ressaltar que, apesar de ser uma rescisão de comum acordo, a intenção precisa partir do empregado. Aqui, o trabalhador recebe, basicamente, as mesmas verbas da demissão sem justa causa, com as seguintes diferenças:
+O aviso prévio é devido pela metade, quando for indenizado;
+A multa do FGTS será paga pela metade, ou seja, 20% do valor do saldo.
+O empregado não poderá solicitar o seguro-desemprego e terá direito de movimentar apenas 80% do saldo da sua conta do fundo de garantia.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Rescisão indireta
+Quando é a empresa que comete as faltas graves previstas no artigo 183 da CLT, como descumprimento do contrato, assédio moral e outras práticas contrárias à lei, o empregado pode solicitar a rescisão indireta do contrato de trabalho.
+O pedido deve ser feito judicialmente e a empresa terá a oportunidade de apresentar defesa. Se a ação for julgada em favor do empregado, as verbas rescisórias devidas serão as mesmas pagas nas rescisões sem justa causa.
+Quantos dias a empresa tem para pagar?
+Segundo a CLT, a empresa tem um prazo de até 10 dias para o pagamento das verbas rescisórias. Esse prazo se inicia a partir do último dia do contrato de trabalho. Considera-se o último dia:
+A data final do aviso prévio trabalhado;
+A notificação de dispensa emitida pela empresa.
+Enfim, é comum que existam particularidades sobre como fazer cálculo trabalhista de cada funcionário, como faltas, previsões em convenções coletivas e outros direitos do empregado. 
+Por isso, o ideal é sempre contar com auxílio para a elaboração dos cálculos, como a contratação de profissionais ou de softwares de gestão, garantindo a regularidade de todos os pagamentos. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
